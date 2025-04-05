@@ -33,7 +33,7 @@ a {
 }
 
 a:hover {
-  color: #a99a7b;
+  color: #258d87;
   text-decoration: none;
 }
 
@@ -986,7 +986,7 @@ section {
 }
 
 .services .service-item:hover .icon:before {
-  background: #a99a7b;
+  background: #258d87;
 }
 
 .services .service-item:hover h3 {
@@ -1953,7 +1953,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #9f7854;
+  background: #9d6530;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
