@@ -11,7 +11,7 @@ html{direction: ltl;}
 :root {
   --color-default: #222222;
   --color-primary: #258d87;/*6a624f(orignal) - 905b4d(chocolate) - 8a6645*/
-  --color-secondary: #9d632e;
+  --color-secondary: #b9b9b9;
 }
 
 /* Smooth scroll behavior */
@@ -1953,7 +1953,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #9d6530;
+  background: #b9b9b9;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -1985,7 +1985,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #b58960;
+  background: #b9b9b9;
 }
 
 .hero .icon-box:hover .title a,
